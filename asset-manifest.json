@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Animals/static/css/main.af38ae17.chunk.css",
+    "main.js": "/Animals/static/js/main.c9e5a61d.chunk.js",
+    "main.js.map": "/Animals/static/js/main.c9e5a61d.chunk.js.map",
+    "runtime-main.js": "/Animals/static/js/runtime-main.89fdc11b.js",
+    "runtime-main.js.map": "/Animals/static/js/runtime-main.89fdc11b.js.map",
+    "static/js/2.706afdaf.chunk.js": "/Animals/static/js/2.706afdaf.chunk.js",
+    "static/js/2.706afdaf.chunk.js.map": "/Animals/static/js/2.706afdaf.chunk.js.map",
+    "index.html": "/Animals/index.html",
+    "static/css/main.af38ae17.chunk.css.map": "/Animals/static/css/main.af38ae17.chunk.css.map",
+    "static/js/2.706afdaf.chunk.js.LICENSE.txt": "/Animals/static/js/2.706afdaf.chunk.js.LICENSE.txt",
+    "static/media/animais.5eb31478.png": "/Animals/static/media/animais.5eb31478.png",
+    "static/media/dog-blue.3ac61165.jpg": "/Animals/static/media/dog-blue.3ac61165.jpg",
+    "static/media/dog.9f4f7fc4.jpg": "/Animals/static/media/dog.9f4f7fc4.jpg",
+    "static/media/dogyellow.ae691874.jpg": "/Animals/static/media/dogyellow.ae691874.jpg",
+    "static/media/lupa.d68b47a4.svg": "/Animals/static/media/lupa.d68b47a4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89fdc11b.js",
+    "static/js/2.706afdaf.chunk.js",
+    "static/css/main.af38ae17.chunk.css",
+    "static/js/main.c9e5a61d.chunk.js"
+  ]
+}
